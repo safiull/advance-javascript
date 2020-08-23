@@ -1,0 +1,1 @@
+// function likhe seta return na korle javascript a undefined set kore dey.
